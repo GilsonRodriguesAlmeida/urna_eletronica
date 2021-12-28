@@ -4,41 +4,41 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 38111,
+                numero: '38111',
                 nome: 'Machado de Assis',
-                paritdo: 'ABC',
+                partido: 'ABC',
                 fotos: [
                     {url:'dep05.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: 77222,
+                numero: '77222',
                 nome: 'Dom Pedro 2',
-                paritdo: 'DEFG',
+                partido: 'DEFG',
                 fotos: [
                     {url:'dep06.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: 39111,
+                numero: '39111',
                 nome: 'Maria Joaquina',
-                paritdo: 'BAC',
+                partido: 'BAC',
                 fotos: [
                     {url:'dep07.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: 77111,
+                numero: '77111',
                 nome: 'Cleopatra',
-                paritdo: 'EGIT',
+                partido: 'EGIT',
                 fotos: [
                     {url:'dep08.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: 22222,
+                numero: '22222',
                 nome: 'Napoleão',
-                paritdo: 'ITA',
+                partido: 'ITA',
                 fotos: [
                     {url:'dep09.jpg', legenda: 'Vereador'}
                 ]
@@ -50,7 +50,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 99,
+                numero: '99',
                 nome: 'Bufalo',
                 partido: 'ABC',
                 vice: 'Barakati',
@@ -60,7 +60,7 @@ let etapas = [
             ]
             },
             {
-                numero: 84,
+                numero: '84',
                 nome: 'Xeroki',
                 partido: 'BAC',
                 vice: 'PepLegal',
